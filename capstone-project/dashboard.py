@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-plt.style.use("seaborn-v0_8")
+plt.style.use("seaborn")
 st.set_page_config(
     page_title="Efek Pandemi COVID-19 pada Peningkatan Jumlah Pekerja di Bawah Umur",
     # layout="wide"
